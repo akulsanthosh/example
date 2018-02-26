@@ -27,7 +27,6 @@ int main(int argc, char const *argv[])
 	}
 	cout<<endl<<"Evaluation : "<<s.top();
 	cout<<"learning git";
-	cout<<"wtf";
 	return 0;
 }
 
