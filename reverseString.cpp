@@ -18,5 +18,6 @@ int main(int argc, char const *argv[])
 		cout<<s.top();
 		s.pop();
 	}
+	cout<<"this is an example";
 	return 0;
 }
